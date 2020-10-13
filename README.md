@@ -1,6 +1,6 @@
 
 
-[![NPM version](https://img.shields.io/npm/v/@abernier/parallax.svg?style=flat)](https://www.npmjs.com/package/@abernier/parallax)
+[![NPM version](https://img.shields.io/npm/v/@abernier/loop.svg?style=flat)](https://www.npmjs.com/package/@abernier/loop)
 
 # INSTALL
 
