@@ -1,11 +1,9 @@
-# INSTALL
+
+
+[![NPM version](https://img.shields.io/npm/v/@abernier/parallax.svg?style=flat)](https://www.npmjs.com/package/@abernier/parallax)# INSTALL
 
 ```js
-import Loop from 'https://unpkg.com/loop@:version/:file'
-```
-
-```js
-import Loop from 'loop'
+import Loop from 'https://unpkg.com/@abernier/loop@1.0.0'
 ```
 
 # Usage
