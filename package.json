@@ -1,20 +1,23 @@
 {
-  "name": "loop",
+  "name": "@abernier/loop",
   "version": "1.0.0",
   "description": "♻️",
   "type": "module",
-  "main": "loop.js",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gist.github.com/3225993.git"
+    "url": "https://github.com/abernier/loop.git"
   },
   "author": "Antoine BERNIER",
   "license": "ISC",
   "bugs": {
-    "url": "https://gist.github.com/3225993"
+    "url": "https://github.com/abernier/loop/issues"
   },
-  "homepage": "https://gist.github.com/3225993"
+  "homepage": "https://github.com/abernier/loop"
 }
