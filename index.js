@@ -77,4 +77,4 @@ class Loop {
   }
 }
 
-exports default Loop
+export default Loop
