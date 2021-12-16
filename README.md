@@ -5,7 +5,7 @@
 # INSTALL
 
 ```js
-import Loop from 'https://unpkg.com/@abernier/loop@1.0.0'
+import Loop from 'https://unpkg.com/@abernier/loop@1.0.4'
 ```
 
 # Usage
